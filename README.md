@@ -1,8 +1,8 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:** HANIEL REENA D R
 
-**Register Number:**
+**Register Number:** 2305001008
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
@@ -81,6 +81,12 @@ Enter the starting node for BFS: A
 ### Sample Output:
 
 BFS Traversal Order: ['A', 'B', 'C']
+### INPUT
+<img width="477" height="195" alt="image" src="https://github.com/user-attachments/assets/6952dac4-f4d6-4d19-b2ec-7c1d9430d2f5" />
+### OUTPUT
+<img width="454" height="48" alt="image" src="https://github.com/user-attachments/assets/76f34f85-0253-419b-8a9e-a84ab9e0908f" />
+
+
 
 
 ### Result:
